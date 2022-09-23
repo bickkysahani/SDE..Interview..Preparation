@@ -33,7 +33,7 @@ Preparation for Software Development Engineer Interview (MAANG)
 | 5. [Two Sum](https://leetcode.com/problems/two-sum/) | Array | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/017%20-%20'Two%20Sum%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 6. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/019%20-%20'First%20Bad%20Version%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 7. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/020%20-%20'Palindrome%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(1) | O(1) |
-| 7. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/021%20-%20'Valid%20Palindrome%20-%20LeetCode'%20-%20leetcode.com.png)  | O(1) | O(1) |
+| 8. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/021%20-%20'Valid%20Palindrome%20-%20LeetCode'%20-%20leetcode.com.png)  | O(1) | O(1) |
 ## MEDIUM QUESTIONS
 | Name of Question | Topic | Status | Solution |  Time Complexity | Space Complexity |
 | ---------------- | ----- | ------ | -------- |  --------------- | ---------------- |
