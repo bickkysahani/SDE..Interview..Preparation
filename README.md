@@ -34,6 +34,9 @@ Preparation for Software Development Engineer Interview (MAANG)
 | 6. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/019%20-%20'First%20Bad%20Version%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 7. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/020%20-%20'Palindrome%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(1) | O(1) |
 | 8. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/021%20-%20'Valid%20Palindrome%20-%20LeetCode'%20-%20leetcode.com.png)  | O(1) | O(1) |
+| 9. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array,Sorting | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/026%20-%20'Merge%20Sorted%20Array%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+| 10. [Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table, Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/027%20-%20'Happy%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+| 11. [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/028%20-%20'Ugly%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(log(n)) | O(1) |
 ## MEDIUM QUESTIONS
 | Name of Question | Topic | Status | Solution |  Time Complexity | Space Complexity |
 | ---------------- | ----- | ------ | -------- |  --------------- | ---------------- |
