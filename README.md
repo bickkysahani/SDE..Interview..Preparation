@@ -37,11 +37,18 @@ Preparation for Software Development Engineer Interview (MAANG)
 | 9. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array,Sorting | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/026%20-%20'Merge%20Sorted%20Array%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 10. [Happy Number](https://leetcode.com/problems/happy-number/) | Hash Table, Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/027%20-%20'Happy%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 11. [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/028%20-%20'Ugly%20Number%20-%20LeetCode'%20-%20leetcode.com.png)  | O(log(n)) | O(1) |
+| 12. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array,Two Pointers | ✅✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/032%20-%20'Remove%20Duplicates%20from%20Sorted%20Array%20-%20LeetCode'%20-%20leetcode.com.png)  [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/033%20-%20'Remove%20Duplicates%20from%20Sorted%20Array%20-%20LeetCode'%20-%20leetcode.com.png) | O(n) | O(1) |
+| 13. [Remove Element](https://leetcode.com/problems/remove-element/) | Array, Two Pointers | ✅✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/035%20-%20'Remove%20Element%20-%20LeetCode'%20-%20leetcode.com.png) [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/034%20-%20'Remove%20Element%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+| 14. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Array,Binary Search | ✅✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/037%20-%20'Search%20Insert%20Position%20-%20LeetCode'%20-%20leetcode.com.png) [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/036%20-%20'Search%20Insert%20Position%20-%20LeetCode'%20-%20leetcode.com.png) | O(log(n)) | O(1) |
+| 15. [Plus One](https://leetcode.com/problems/plus-one/) | Array,Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/038%20-%20'Plus%20One%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+
+
 ## MEDIUM QUESTIONS
 | Name of Question | Topic | Status | Solution |  Time Complexity | Space Complexity |
 | ---------------- | ----- | ------ | -------- |  --------------- | ---------------- |
 | 1. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Array | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/013%20-%20'Boats%20to%20Save%20People%20-%20LeetCode'%20-%20leetcode.com.png)  | O(nlog(n)) | O(n) |
 | 2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/018%20-%20'Container%20With%20Most%20Water%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+
 ## HARD QUESTIONS
 | Name of Question | Topic | Status | Solution |  Time Complexity | Space Complexity |
 | ---------------- | ----- | ------ | -------- |  --------------- | ---------------- |
