@@ -6,7 +6,7 @@ Preparation for Software Development Engineer Interview (MAANG)
 - [**HackerRank**](https://www.hackerrank.com/bickkysahani)
 
 
-![Image](./images/how-to-get-a-tech-job-at-maang-meta-amazon-apple-netflix-google.webp)
+![Image](./images/SDE%20Interview%20Preparation.png)
 
 ### RESOURCES
 
