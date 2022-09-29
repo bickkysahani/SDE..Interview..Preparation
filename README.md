@@ -43,7 +43,8 @@ Preparation for Software Development Engineer Interview (MAANG)
 | 15. [Plus One](https://leetcode.com/problems/plus-one/) | Array,Math | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/038%20-%20'Plus%20One%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 | 16. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Array,Hash Table,Sorting | ✅✅  | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/039%20-%20'Contains%20Duplicate%20-%20LeetCode'%20-%20leetcode.com.png) [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/040%20-%20'Contains%20Duplicate%20-%20LeetCode'%20-%20leetcode.com.png) | O(n) | O(n) |
 | 17. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Array | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/041%20-%20'Intersection%20of%20Two%20Arrays%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
-
+| 18. [Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Array | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/042%20-%20'Find%20Pivot%20Index%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
+| 19. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | String | ✅ | [Python](https://github.com/bickkysahani/SDE..Interview..Preparation/blob/main/images/043%20-%20'Isomorphic%20Strings%20-%20LeetCode'%20-%20leetcode.com.png)  | O(n) | O(1) |
 ## MEDIUM QUESTIONS
 | Name of Question | Topic | Status | Solution |  Time Complexity | Space Complexity |
 | ---------------- | ----- | ------ | -------- |  --------------- | ---------------- |
